@@ -3,3 +3,5 @@ matplotlib
 scipy
 pymc3
 einsteinpy
+openpyxl
+sympy
