@@ -1,0 +1,8 @@
+Parameters fitting totally cost :  0.29 s !
+np:1.38e+18
+up:0.085
+ne:8.64e+16
+ue:0.2067
+My minmum error function values: 
+56.836617980898865
+Using twobandfit!
