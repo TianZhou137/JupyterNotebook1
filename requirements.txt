@@ -2,6 +2,6 @@ numpy
 matplotlib
 scipy
 pymc3
-einsteinpy
+PyQt5
 openpyxl
 sympy
